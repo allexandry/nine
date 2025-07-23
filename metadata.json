@@ -1,0 +1,5 @@
+{
+  "name": "NiNe",
+  "description": "A platform for authenticating and managing Wi-Fi access for 'wifi-zone' merchants. Customers can purchase internet packages and use them across different access points.",
+  "requestFramePermissions": []
+}
